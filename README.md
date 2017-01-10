@@ -3,7 +3,6 @@
 
 Part 1: Purchase data problems
 
-
 Mapper, Reducer file 1 to 3
 
 The three questions that you have to answer about this data set are:
